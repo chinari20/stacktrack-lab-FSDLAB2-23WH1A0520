@@ -12,7 +12,7 @@ function Home() {
       <p>Lab ID: {LAB_ID}</p>
 
       {/* TODO: Replace this placeholder with your question set UI */}
-      <p>QuestionComponent placeholder — implement your assigned question set here.</p>
+      <p>Set - 7</p>
 
     </div>
   );
