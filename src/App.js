@@ -6,7 +6,10 @@ function App() {
     <div>
       <Home />
 
-      {/* TODO: Replace this placeholder with Routes */}
+      {/* TODO: Replace this placeholder with Routes */
+      //connect your question components to the router here, for example:
+
+      }
     </div>
   );
 }
